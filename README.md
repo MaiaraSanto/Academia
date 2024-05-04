@@ -1,1 +1,1 @@
-# Academia
+# gymme-landing-starter
